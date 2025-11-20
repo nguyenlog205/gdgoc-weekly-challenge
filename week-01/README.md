@@ -32,16 +32,3 @@ Thư mục này chứa bài tập thử thách của tuần đầu tiên, tập 
 - `src/`: Chứa các script và module Python hỗ trợ
 - `requirements.txt`: Liệt kê tất cả các thư viện Python cần thiết
 
-## Cách Sử Dụng
-1. Đảm bảo đã cài đặt đầy đủ các thư viện cần thiết
-2. Mở Jupyter notebook trong `notebook/report.ipynb`
-3. Làm theo hướng dẫn và hoàn thành các bài tập trong notebook
-
-## Lời Khuyên
-- Chạy các cell theo đúng thứ tự
-- Ghi chú rõ ràng quá trình phân tích của bạn
-- Thêm comments vào code
-- Lưu công việc thường xuyên
-
-## Câu Hỏi hoặc Vấn Đề?
-Nếu bạn có bất kỳ câu hỏi hoặc gặp vấn đề gì, đừng ngần ngại liên hệ với giảng viên hoặc trợ giảng để được hỗ trợ.
