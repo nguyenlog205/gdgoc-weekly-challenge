@@ -1,15 +1,19 @@
-# Tuần 01 - Thử Thách Phân Tích Dữ Liệu với Python
+# Tuần 01 - Bài tập tuần 0 - 1
 
 > Đề bài: [Tuần 0 + 1: GDGoC-UIT (AI Team): Task 1](https://eight-drip-1cb.notion.site/Tu-n-0-1-GDGoC-UIT-AI-Team-Task-1-2a439f5e0c9a801088a0f35cf54f4d8a)
 
 ## Cấu Trúc Dự Án
 ```
 week-01/
-├── README.md          # Tài liệu hướng dẫn dự án
+├── README.md          # README mô tả bài nộp
 ├── requirements.txt   # Danh sách thư viện Python cần thiết
 ├── notebook/         
-│   └── report.ipynb  # Jupyter notebook cho phân tích và báo cáo
-└── src/              # Thư mục chứa mã nguồn
+│   └── report.ipynb  # Bài làm
+└── src/              # Thư mục chứa mã nguồn liên quan
+    │── __init__.py
+    │── analyze_univariate.py  # Mã nguồn để phân tích đơn biến
+    │── calculate_corr_matrix.py # Tính toán ma trận tương quan và p-value
+    └── extract_general_description.py # Trích xuất mô tả chung về dữ liệu
 ```
 
 ## Hướng Dẫn Cài Đặt
