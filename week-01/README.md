@@ -1,5 +1,7 @@
 # Tuần 01 - Thử Thách Phân Tích Dữ Liệu với Python
 
+> Đề bài: [Tuần 0 + 1: GDGoC-UIT (AI Team): Task 1](https://eight-drip-1cb.notion.site/Tu-n-0-1-GDGoC-UIT-AI-Team-Task-1-2a439f5e0c9a801088a0f35cf54f4d8a)
+
 ## Cấu Trúc Dự Án
 ```
 week-01/
